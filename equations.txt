@@ -1,0 +1,15 @@
+﻿"Resolution Projector X"= 1920
+"Resolution Projector Y"= 1080
+"Resolution Build"= 0.1
+"Size Build Volume X"= "Resolution Projector X" * "Resolution Build"
+"Size Build Volume Y"= 2 * "Resolution Projector Y" * "Resolution Build"
+"Size Build Volume Z"= "Size Build Volume Y"
+"Thick"= 0.125in
+"Size Enclosure Internal X"= 350mm
+"Size Enclosure Internal Y"= "Size Enclosure Internal X"
+"Size Enclosure Internal Z"= "Size Enclosure Internal X"
+"Size Enclosure External Z"= 1000mm
+"Diameter Screw"= 3mm
+"Diameter Nut"= 5.5mm
+"Thick Nut"= 2.5mm
+"Length Screw"= 12mm
