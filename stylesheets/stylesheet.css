@@ -375,6 +375,18 @@ dl dd {
   font-weight: 100;
 }
 
+#images_hz {
+	width: 960px;
+	height: auto;
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+
+#images_hz img {
+	display: inline;
+	margin: 0 1px;
+}
+
 footer {
   background: transparent url('../images/hr.png') 0 0 no-repeat;
   margin-top: 40px;
