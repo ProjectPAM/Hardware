@@ -1,9 +1,7 @@
 Project PAM Hardware
 ========
 
-Introduction paragraph
-[Open Source Hardware Definition]
-[Open Source Hardware Definition]: http://www.oshwa.org/definition/
+The goal of Project Pam's hardware is to provide a flexible platform for fast, precise prints.
 
 Releases
 ========
