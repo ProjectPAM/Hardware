@@ -1,0 +1,10 @@
+﻿"D"= 4'Diameter
+"H"= 1.5 * "D"'Head Diameter
+"K"= 1.25 * "D"'Head Height
+"C"= 0.4'Top Chafer or Radius
+"F"= 4.7'Fillet Transition Dia
+"S"= 0.8 * "D"'Socket SizeAcross the Flat
+"T"= 0.75 * "D"'Key Engagement
+"W"= "K" - "T"'Wall Thickness
+"L"= 20'Length
+"Pitch"= .7'Thread Pitch
