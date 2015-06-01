@@ -1,0 +1,7 @@
+﻿"resin density"= 1100'kg/m^3
+"Vat X"= "RD1@Annotations" / 1000'm
+"Vat Y"= "RD2@Annotations" / 1000'm
+"Vat Z"= "RD4@Annotations" / 1000 'm
+"Vat Volume"= "Vat X" * "Vat Y" * "Vat Z" 'm^3
+"acceleration due to Graviety"= 9.81 'kg*m/sec
+"Bouyancy Force"= "resin density" * "Vat Volume" * "acceleration due to Graviety" 'N
